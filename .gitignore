@@ -1,0 +1,9 @@
+# Gradle
+.gradle/
+build/
+app/bin/
+
+# Vystupy testu NATT
+natt-logs/
+test_report.html
+pid-list.txt
